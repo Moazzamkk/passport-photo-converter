@@ -1,0 +1,9 @@
+# Configuration for git attributes
+# Do not edit manually
+*.htm linguist-vendored
+
+src/**/*.tsx linguist-detectable
+dist/* linguist-vendored
+*.tsx linguist-detectable
+vendor/* linguist-vendored
+# eof f94deedb
